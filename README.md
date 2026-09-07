@@ -1,2 +1,3 @@
-# Selection-Structure-Practice-TungtungsahurTuff
-Selection Structure practice
+# Selection-Structure-Practice
+ ## Description
+ Practice of Selection Structure by coding a password gatekeep.
